@@ -1,7 +1,7 @@
-pyrogram
-tgcrypto
-requests
-pillow
-rembg
-motor
-python-dotenv
+pyrogram==2.0.106
+tgcrypto==1.2.5
+requests==2.31.0
+pillow==10.1.0
+rembg==2.0.57
+motor==3.3.2
+python-dotenv==1.0.0
