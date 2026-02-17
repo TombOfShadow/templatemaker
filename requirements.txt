@@ -1,0 +1,7 @@
+pyrogram
+tgcrypto
+requests
+pillow
+rembg
+motor
+python-dotenv
